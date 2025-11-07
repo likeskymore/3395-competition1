@@ -1,6 +1,6 @@
 # Beer quality dection
 
-Team name: ift3395_trung_nguyen
+Team name: ift3395_trung_nguyen  
 Team members: Trung Nguyen - 20238006
 
 This repository contains a complete pipeline for training a model to predict beer quality. The model is trained to classify the beer quality from 3-9 .
